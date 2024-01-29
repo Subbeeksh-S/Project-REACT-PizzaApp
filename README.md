@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+# Note
+This project was buit using React basics which incorporates basic REACT concepts like Components,Props,JSX in a sigle index.js file..
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
